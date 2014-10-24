@@ -1,7 +1,7 @@
 ## Syllabus
 * What is Source Control and Why Should you Care? (CBA)
 * What is [git](http://git-scm.com/)? (CBA)
-* Introduction to GitHub (RVR)
+* *Introduction to GitHub (RVR)** /
   * [GitHub.Com](https://github.com/)
   * GitHub Client - [Windows](https://windows.github.com/) & [Mac](https://mac.github.com/)
 * Learning the basics of Markdown (RVR)
@@ -21,7 +21,8 @@
     *  [Gists](https://gist.github.com/)
     *  [GitHub Pages](https://pages.github.com/)
 * Practical Exercise 
-  * Forking
+  * *Making Change**//
+
   * Cloning
   * Makint Changes
   * Committing Changes
